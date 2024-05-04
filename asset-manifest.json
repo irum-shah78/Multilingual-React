@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Multilingual-React/static/css/main.31d6cfe0.css",
+    "main.js": "/Multilingual-React/static/js/main.d792ceee.js",
+    "static/js/453.f4336765.chunk.js": "/Multilingual-React/static/js/453.f4336765.chunk.js",
+    "index.html": "/Multilingual-React/index.html",
+    "static/media/getFetch.cjs": "/Multilingual-React/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
+    "main.d792ceee.js.map": "/Multilingual-React/static/js/main.d792ceee.js.map",
+    "453.f4336765.chunk.js.map": "/Multilingual-React/static/js/453.f4336765.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.d792ceee.js"
+  ]
+}
